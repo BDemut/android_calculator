@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">back</string>
+    <string name="basic_calculator">Basic Calculator</string>
+    <string name="scientific_calculator">Scientific Calculator</string>
+</resources>
