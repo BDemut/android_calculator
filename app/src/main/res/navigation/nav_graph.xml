@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/basicFragment">
+
+    <fragment
+        android:id="@+id/basicFragment"
+        android:name="com.example.projekcik_1_kalkulator.basicFragment.BasicFragment"
+        android:label="@string/basic_calculator" />
+    <fragment
+        android:id="@+id/scientificFragment"
+        android:name="com.example.projekcik_1_kalkulator.scientificFragment.ScientificFragment"
+        android:label="@string/scientific_calculator" />
+</navigation>
